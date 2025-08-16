@@ -1,0 +1,859 @@
+<!DOCTYPE html>
+<html>
+  <head>
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
+
+    <title>Rabeaz Graphics</title>
+    <meta name="description" content="Art Director &#x2022; Graphic &amp; Motion Designer" />
+    <meta property="og:title" content="Rabeaz Graphics" />
+    <meta property="og:description" content="Art Director &#x2022; Graphic &amp; Motion Designer" />
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta property="og:image" content="https://carbon-media.accelerator.net/0000000makD/2Dmjl1gRs3Jg1OYVbk4ovV;1200x400.png?auto=webp" />
+    <meta name="google-site-verification" content="c9e8811712b831fd91e65916aa074a85" />
+    <link rel="icon" type="image/png" href="https://carbon-media.accelerator.net/0000000makD/5z76WpViz5IcxByCBX54Vo;crop(14,0,172,172)/32x32.png" sizes="32x32" />
+    <style id="root-styles">
+:root {
+  --color: #fff;
+  --accent-color: #fff;
+  --link-color: #fff;
+  --surface-color: #00000000;
+  --background-color: #000;
+  --grid-width: 1100px;
+  --default-color: #fff;
+  --default-accent-color: #fff;
+  --default-link-color: #fff;
+  --font-family: Poppins;
+  --secondary-font-family: Poppins;
+}
+    </style>
+    <style id="global-styles">
+
+.g-1-106-2 {
+  font-family: Space Mono;
+  --secondary-font-family: Space Mono;
+}
+
+.g-1-125-1 {
+  --font-size: 9.7em;
+  font-size: 9.7em;
+}
+
+.g-1-125-2 {
+  line-height: 2.47;
+  --font-size: 2.1em;
+  font-size: 2.1em;
+  letter-spacing: 0.03em;
+}
+
+.g-1-125-3 {
+}
+
+.g-1-142-2 {
+  letter-spacing: 0.04em;
+  font-family: Open Sans;
+  --secondary-font-family: Open Sans;
+  line-height: 1.57;
+}
+
+.g-1-142-3 {
+  line-height: 1;
+  letter-spacing: 0.15em;
+  --font-size: 2em;
+  font-size: 2em;
+}
+
+.g-1-128-2 {
+  --font-size: 2.5em;
+  font-size: 2.5em;
+  font-family: Space Mono;
+  --secondary-font-family: Space Mono;
+  letter-spacing: 0.2em;
+  line-height: 1.69;
+}
+
+.g-1-128-4 {
+  --font-size: 2.5em;
+  font-size: 2.5em;
+  line-height: 1.5em;
+}
+
+.g-1-133-2 {
+  letter-spacing: 0.5em;
+  --font-size: 3em;
+  font-size: 3em;
+  line-height: 1.3;
+  font-family: IBM Plex Sans;
+  --secondary-font-family: IBM Plex Sans;
+}
+
+.g-1-133-3 {
+  letter-spacing: 0.19em;
+  line-height: 1;
+  --font-size: 1.5em;
+  font-size: 1.5em;
+}
+
+.g-1-149-1 {
+}
+
+.g-1-149-2 {
+}
+
+.g-1-134-2 {
+  --font-size: 4em;
+  font-size: 4em;
+  line-height: 2em;
+}
+
+.g-1-134-3 {
+  --font-size: 1.8em;
+  font-size: 1.8em;
+  letter-spacing: 0.05em;
+  line-height: 1.28;
+}
+
+.g-1-127-3 {
+  --font-size: 1.6em;
+  font-size: 1.6em;
+}
+
+.g-1-127-4 {
+  font-family: Work Sans;
+  --secondary-font-family: Work Sans;
+  line-height: 1.86;
+  --font-size: 1.8em;
+  font-size: 1.8em;
+  letter-spacing: 0.02em;
+}
+
+.g-1-130-5 {
+  --font-size: 5.8em;
+  font-size: 5.8em;
+  line-height: 0.1;
+  font-family: IBM Plex Sans;
+  --secondary-font-family: IBM Plex Sans;
+}
+
+.g-1-130-6 {
+  --font-size: 2.5em;
+  font-size: 2.5em;
+  line-height: 1.5em;
+}
+
+.g-1-130-7 {
+  --font-size: 2.1em;
+  font-size: 2.1em;
+  font-family: IBM Plex Sans;
+  --secondary-font-family: IBM Plex Sans;
+  line-height: 1;
+}
+
+.g-1-136-1 {
+  --font-size: 3em;
+  font-size: 3em;
+  letter-spacing: 0.1em;
+  line-height: 3.4em;
+}
+
+.g-1-136-2 {
+  --font-size: 2.4em;
+  font-size: 2.4em;
+  line-height: 1.5em;
+}
+
+.g-1-136-3 {
+  --font-size: 2.4em;
+  font-size: 2.4em;
+  line-height: 1.5em;
+}
+
+.g-1-136-4 {
+  --font-size: 2.4em;
+  font-size: 2.4em;
+  line-height: 1.5em;
+}
+
+.g-1-136-5 {
+  --font-size: 2.4em;
+  font-size: 2.4em;
+  line-height: 1.5em;
+}
+
+.g-1-107-2 {
+  --font-size: 13.5em;
+  font-size: 13.5em;
+  font-family: Emberly;
+  --secondary-font-family: Emberly;
+}
+
+.g-1-107-3 {
+  --font-size: 3.3em;
+  font-size: 3.3em;
+}
+
+.g-1-129-2 {
+}
+
+.g-1-129-3 {
+  --font-size: 1.8em;
+  font-size: 1.8em;
+  line-height: 1.5em;
+}
+
+.g-1-129-5 {
+}
+
+.g-1-129-6 {
+  --font-size: 1.8em;
+  font-size: 1.8em;
+  line-height: 1.5em;
+}
+
+.g-1-129-8 {
+}
+
+.g-1-129-9 {
+  --font-size: 1.8em;
+  font-size: 1.8em;
+  line-height: 1.5em;
+}
+
+.g-1-129-11 {
+}
+
+.g-1-129-12 {
+  --font-size: 1.8em;
+  font-size: 1.8em;
+  line-height: 1.5em;
+}
+
+.g-1-132-3 {
+  letter-spacing: 0.3em;
+  --font-size: 2.6em;
+  font-size: 2.6em;
+  font-family: Montserrat;
+  --secondary-font-family: Montserrat;
+}
+
+.g-1-132-4 {
+  --font-size: 2.2em;
+  font-size: 2.2em;
+  line-height: 1.28;
+}
+
+.g-1-132-7 {
+  letter-spacing: 0.18em;
+  --font-size: 2.5em;
+  font-size: 2.5em;
+  font-family: Montserrat;
+  --secondary-font-family: Montserrat;
+}
+
+.g-1-132-8 {
+  --font-size: 2.2em;
+  font-size: 2.2em;
+  line-height: 1.28;
+}
+
+.g-1-135-1 {
+  --font-size: 3em;
+  font-size: 3em;
+  letter-spacing: 0.1em;
+  line-height: 3.4em;
+}
+
+.g-1-143-1 {
+  letter-spacing: -0.01em;
+  line-height: 1.37;
+  --font-size: 2.9em;
+  font-size: 2.9em;
+  font-family: Work Sans;
+  --secondary-font-family: Work Sans;
+}
+</style>
+    <link rel="stylesheet" href="https://static.cmcdn.net/23/1.1.19/styles/all.css" />
+    <link rel="stylesheet" href="https://static.cmcdn.net/23/1.1.19/styles/vendor/swiper.css" />
+    <link rel="stylesheet" href="/styles/fonts.css"/>
+
+    
+
+    <meta name="viewport" content="width=device-width, initial-scale=1"/>
+  </head>
+
+  <body class="site desktop  " data-min-contrast="0.065">
+    <div class="page loading" style="background:url('https://carbon-media.accelerator.net/0000000makD/0JjnYmEYaYXezVZC6Srp78;1497x2000.png?auto=webp') #000 fixed top / cover;">
+  
+
+
+<span id="navigation_5282935_4864708" class="navigation surface overlay  " on-insert="nav:setup">
+  
+  <header>
+    <a href="index.html">
+      <h1 class="logo_42462552" style="font-size:2.85em;" data-box="116x100">Rabeaz Graphics</h1>
+<style>
+h1.logo_42462552 {
+  --scale: 0.32;
+  width: calc(116px * var(--scale));
+  height: calc(100px * var(--scale));
+  background: center / contain no-repeat url('https://carbon-media.accelerator.net/0000000makD/aMosCwn0dtndkrAuyDk0DZ;37x32.png?auto=webp');
+  text-indent: -500vw;
+  white-space: nowrap;
+  overflow: hidden;
+  background-image: image-set(url('https://carbon-media.accelerator.net/0000000makD/aMosCwn0dtndkrAuyDk0DZ;37x32.png?auto=webp') 1x, url('https://carbon-media.accelerator.net/0000000makD/aMosCwn0dtndkrAuyDk0DZ;74x64.png?auto=webp') 2x);;
+}</style>
+    </a>
+  </header>
+
+  
+  <div class="navigation overlay">
+    <style>
+#navigation_5282935_4864708 > header {
+  display: flex;
+  width: 100%;
+  align-items: center;
+  position: relative;
+  z-index: 10;
+  flex-flow: row wrap;
+}
+
+#navigation_5282935_4864708 .overlay {
+  --surface-color: #111111;
+  background: var(--overlay-background-color, #111111);
+}
+</style>
+<nav style="display:flex;width:100%;justify-content:flex-end;align-items:center;flex-flow:row wrap;font-size:3.3em;">
+  <a class="link_000000005000779c0000000000000001" href="index.html"><span>Home</span></a>
+  <a class="link_000000005000779c0000000000001497" href="work.html"><span>Work</span></a>
+  <a class="link_000000005000779c0000000000003631" href="https://rabeaz.lemonsqueezy.com/" target="_blank"><span>Store</span></a>
+  <a class="link_000000005000779c0000000000000006" href="about.html"><span>About</span></a>
+</nav>
+
+  </div>
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+  <div class="hamburger navIcon" on-click="nav:toggle">
+  <svg class="icon" viewBox="0 0 28 28">
+    <g stroke-width="2" stroke-linecap="round" stroke-miterlimit="10">
+      <line class="one" x1="4" y1="6" x2="24" y2="6"></line>
+      <line class="two" x1="4" y1="14" x2="24" y2="14"></line>
+      <line class="three" x1="4" y1="22" x2="24" y2="22"></line>
+    </g>
+  </svg>
+</div>
+  
+
+</span>
+
+  
+  <div class="guts">
+    <div class="content blocks grid animated">
+      
+      <div class="block_000000005000779c000000000000365d block cover align-x-center align-y-center fluid animated cover" style="" on-insert="block:setup">
+  <style>
+.block_000000005000779c000000000000365d > .content {
+  display: grid;
+  grid-template-columns: repeat(1, 1fr);
+}
+
+#item_000000005000779c000000000000365d_1 {
+  grid-area: 1 / 1 / 2 / 2;
+}
+
+#item_000000005000779c000000000000365d_2 {
+}
+
+#item_000000005000779c000000000000365d_3 {
+}
+
+.phone .block_000000005000779c000000000000365d > .content {
+  grid-template-columns: repeat(1, 1fr);
+}
+
+.phone #item_000000005000779c000000000000365d_2 {
+  font-size: clamp(1em, var(--font-size, 1em), 1vw);
+}
+
+.phone #item_000000005000779c000000000000365d_3 {
+  font-size: clamp(1em, var(--font-size, 1em), 4vw);
+}</style>
+
+  <div class="background" style=";opacity:1">
+  
+  
+  <div class="clipper">
+    <video poster="https://carbon-media.accelerator.net/0000000makD/hbhdsyijbdGg4GvnjusAgV;1920x1080/frame(1)/quality(80).jpeg?auto=webp" width="1920" height="1080" src="https://carbon-media.accelerator.net/0000000makD/hbhdsyijbdGg4GvnjusAgV;video.mp4" autoplay loop muted playsinline></video>
+  </div>
+  
+  
+</div>
+
+  <div class="content">
+    
+    <div id="item_000000005000779c000000000000365d_1" class="item g-1-142-1 container content padded-container">
+    
+ 
+  
+
+    
+
+  
+</div>
+    
+  </div>
+</div>
+      
+      <div class="block portfolio thumbs block_000000005000779c000000000000365e block fluid animated" style="--padding-top:34px;--padding-bottom:20px;" on-insert="block:setup">
+  <style>
+</style>
+
+
+  <div class="content text-below">
+    <style>
+#grid_0000000makD000000003Cu::before {
+  content: '';
+  width: 0;
+  padding-bottom: 100%;
+  grid-row: 1 / 1;
+  grid-column: 1 / 1;
+}
+
+#grid_0000000makD000000003Cu carbon-item {
+  display: block;
+}
+</style>
+<carbon-grid id="grid_0000000makD000000003Cu" style="--gap-x:10px;--gap-y:10px;display:grid;width:100%;grid-gap:var(--gap-x, 0px) var(--gap-y, 0px);grid-auto-columns:1fr;">
+<carbon-item class="floating" style="grid-area:1 / 1 / 7 / 9">
+
+      <a class="thumb_0000000makD000000002CV thumb box" style="aspect-ratio:4/3" href="r8.html">
+  
+  
+  
+  
+
+  
+  <svg class="placeholder" viewbox="0 0 1280 960"></svg>
+  
+  
+  <video width="1280" height="960" class="lazy" data-src="https://carbon-media.accelerator.net/0000000makD/dVdDnWQYj6Dcg5hcpJZ86e;crop(0,75,600,450)/1280x960.mp4" loop autoplay muted playsinline></video>
+  
+
+  
+  
+
+  
+  
+
+  
+  
+  <div class="overlay"></div>
+
+  
+</a>
+
+
+<div class="detail ">
+  <div class="content text">
+    <h3>R8 Esports | Brand Identity</h3>
+  </div>
+</div>
+
+    </carbon-item>
+<carbon-item class="floating" style="grid-area:1 / 9 / 4 / 13">
+
+      <a class="thumb_0000000makD000000002u9 thumb box" style="aspect-ratio:4/3" href="ninja.html">
+  
+  
+  
+  
+
+  
+  <svg class="placeholder" viewbox="0 0 640 480"></svg>
+  
+  
+  <video width="640" height="480" class="lazy" data-src="https://carbon-media.accelerator.net/0000000makD/8x6GLf7IxjScMssUQ5lQ9x;crop(178,0,1044,783)/640x480.mp4" loop autoplay muted playsinline></video>
+  
+
+  
+  
+
+  
+  
+
+  
+  
+  <div class="overlay"></div>
+
+  
+</a>
+
+
+<div class="detail ">
+  <div class="content text">
+    <h3>NINJA | Brand Identity</h3>
+  </div>
+</div>
+
+    </carbon-item>
+<carbon-item class="floating" style="grid-area:4 / 9 / 7 / 13">
+
+      <a class="thumb_0000000makD0000000030Y thumb box" style="aspect-ratio:4/3" href="faycal.html">
+  
+  
+  
+  
+
+  
+  <svg class="placeholder" viewbox="0 0 640 480"></svg>
+  
+  
+
+  
+  <picture>
+    <source srcset="https://carbon-media.accelerator.net/0000000makD/eO3X8evXzwwdfCb96D0y72;crop(251,0,1417,1063)/1280x960.png?auto=webp 2x" media="(min-width:640px)"/>
+    <img src="https://carbon-media.accelerator.net/0000000makD/eO3X8evXzwwdfCb96D0y72;crop(251,0,1417,1063)/640x480.png?auto=webp"/>
+  </picture>
+  
+  
+
+  
+  
+
+  
+  
+  <div class="overlay"></div>
+
+  
+</a>
+
+
+<div class="detail ">
+  <div class="content text">
+    <h3>Faycal L&#x27;maryoul</h3>
+  </div>
+</div>
+
+    </carbon-item>
+<carbon-item class="floating" style="grid-area:7 / 1 / 10 / 5">
+
+      <a class="thumb_0000000makD000000000VU thumb box" style="aspect-ratio:4/3" href="toose.html">
+  
+  
+  
+  
+
+  
+  <svg class="placeholder" viewbox="0 0 640 480"></svg>
+  
+  
+  <video width="640" height="480" class="lazy" data-src="https://carbon-media.accelerator.net/0000000makD/it0zn744le9d2HmBVwfU63;crop(100,0,400,300)/640x480.mp4" loop autoplay muted playsinline></video>
+  
+
+  
+  
+
+  
+  
+
+  
+  
+  <div class="overlay"></div>
+
+  
+</a>
+
+
+<div class="detail ">
+  <div class="content text">
+    <h3>Toose</h3>
+  </div>
+</div>
+
+    </carbon-item>
+<carbon-item class="floating" style="grid-area:7 / 5 / 13 / 13">
+
+      <a class="thumb_0000000makD000000001Df thumb box" style="aspect-ratio:4/3" href="makeover.html">
+  
+  
+  
+  
+
+  
+  <svg class="placeholder" viewbox="0 0 1280 960"></svg>
+  
+  
+  <video width="1280" height="960" class="lazy" data-src="https://carbon-media.accelerator.net/0000000makD/7k9LcJNdvOKdrnv4VC7r2Z;crop(0,75,600,450)/1280x960.mp4" loop autoplay muted playsinline></video>
+  
+
+  
+  
+
+  
+  
+
+  
+  
+  <div class="overlay"></div>
+
+  
+</a>
+
+
+<div class="detail ">
+  <div class="content text">
+    <h3>Setup Makeover</h3>
+  </div>
+</div>
+
+    </carbon-item>
+<carbon-item class="floating" style="grid-area:10 / 1 / 13 / 5">
+
+      <a class="thumb_0000000makD000000001Xz thumb box" style="aspect-ratio:4/3" href="drb7h.html">
+  
+  
+  
+  
+
+  
+  <svg class="placeholder" viewbox="0 0 640 480"></svg>
+  
+  
+  <video width="640" height="480" class="lazy" data-src="https://carbon-media.accelerator.net/0000000makD/92ldMj8FtHkcLAx7QN59vf;crop(133,0,533,400)/640x480.mp4" loop autoplay muted playsinline></video>
+  
+
+  
+  
+
+  
+  
+
+  
+  
+  <div class="overlay"></div>
+
+  
+</a>
+
+
+<div class="detail ">
+  <div class="content text">
+    <h3>Drb7h</h3>
+  </div>
+</div>
+
+    </carbon-item>
+</carbon-grid>
+  </div>
+</div>
+      
+      <div class="block_000000005000779c000000000000365f block align-x-center align-y-center animated columns flippable" style="" on-insert="block:setup">
+  <style>
+.block_000000005000779c000000000000365f > .content {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 0 60px;
+}
+
+#item_000000005000779c000000000000365f_1 {
+  grid-area: 1 / 1 / 2 / 2;
+}
+
+#item_000000005000779c000000000000365f_2 {
+}
+
+#item_000000005000779c000000000000365f_3 {
+}
+
+#item_000000005000779c000000000000365f_4 {
+  grid-area: 1 / 2 / 2 / 3;
+}
+
+#item_000000005000779c000000000000365f_5 {
+}
+
+.phone .block_000000005000779c000000000000365f > .content {
+  grid-template-columns: repeat(2, 1fr);
+}
+
+.phone #item_000000005000779c000000000000365f_1 {
+  grid-area: 1 / 1 / 2 / 3;
+  margin: 0 0 20px 0;
+}
+
+.phone #item_000000005000779c000000000000365f_2 {
+  font-size: clamp(1em, var(--font-size), 7vw);
+  margin: 0 0 20px 0;
+  line-height: 1.3em;
+}
+
+.phone #item_000000005000779c000000000000365f_3 {
+  font-size: clamp(1em, var(--font-size), 5vw);
+  margin: 0 0 20px 0;
+  line-height: 1.5em;
+}
+
+.phone #item_000000005000779c000000000000365f_4 {
+  grid-area: 2 / 1 / 3 / 3;
+}</style>
+
+
+  <div class="background" style="">
+  
+</div>
+
+  <div class="content">
+    
+    
+    <div id="item_000000005000779c000000000000365f_1" class="item g-1-134-1 container col-1">
+  
+  <div id="item_000000005000779c000000000000365f_2" class="nested item g-1-134-2 text heading">
+    <h3><span style="color:rgb(255, 255, 255)">My store </span></h3>
+
+    
+
+    
+  </div>
+  
+  <div id="item_000000005000779c000000000000365f_3" class="nested item g-1-134-3 text caption">
+    <p><span style="color:rgb(120, 120, 120)">Design assists and more.</span></p>
+
+    
+
+    
+  </div>
+    
+ 
+  
+
+    
+
+  
+</div>
+    
+    
+    <div id="item_000000005000779c000000000000365f_4" class="item g-1-134-4 container col-2">
+  
+  <div id="item_000000005000779c000000000000365f_5" class="nested item g-1-134-5 media">
+    
+
+    
+    
+      
+    
+    <a href="https://rabeaz.lemonsqueezy.com/buy/a730e023-a825-4e5c-bd0b-922fc4289ee4" target="_blank"><style>
+carbon-image { display:block; position:relative; box-sizing:border-box; }
+carbon-image > img,
+carbon-image > video { position:absolute; top:0; left:0; width:100%; height:100%; }
+carbon-shield { display:block; position:absolute; top:0; left:0; width:100%; height:100%; }
+</style>
+<carbon-image id="image_44267735" style="max-width:392px;aspect-ratio:49/94;">
+<style>
+#image_44267735:before {
+  display: block;
+  padding-top: 100%;
+  content: '';
+}
+
+#image_44267735:after {
+  display: block;
+  padding-top: 91.83673%;
+  content: '';
+}
+</style>
+  <img class="lazy" data-src="https://carbon-media.accelerator.net/0000000makD/3bdE5Wl4NylcBYhVPnVWwv;392x752.png?auto=webp" width="392" height="752" />
+  <carbon-shield></carbon-shield>
+</carbon-image>
+</a>
+    
+
+    
+
+    
+
+    
+  </div>
+    
+ 
+  
+
+    
+
+  
+</div>
+    
+  </div>
+</div>
+      
+    </div>
+
+    
+    <div class="project-nav surface">
+  
+</div>
+    
+
+    
+    <footer class="surface has-links ">
+  <div class="content">
+    <div class="copyright">Rabeaz © 2024</div>
+
+    
+    <span class="branding"></span>
+    
+
+    
+
+    
+    <div class="links">
+      
+      <a style="--accent-color:#517fa4" target="_blank" href="https://www.instagram.com/xrabeaz" class="social icon instagram solid circle"></a>
+      
+      <a style="--accent-color:#1da1f2" target="_blank" href="https://twitter.com/xrabeaz" class="social icon twitter solid circle"></a>
+      
+      <a style="--accent-color:#9146ff" target="_blank" href="https://www.twitch.tv/rabeaz" class="social icon twitch solid circle"></a>
+      
+      <a style="--accent-color:#0056ff" target="_blank" href="https://www.behance.net/RABEAZ" class="social icon behance solid circle"></a>
+      
+    </div> 
+    
+  </div>
+</footer>
+    
+  </div>
+  
+</div>
+    <script src="https://static.cmcdn.net/libs/player/3.8.2/hls.js"></script>
+    <script src="https://static.cmcdn.net/libs/corejs/2.9.0/corejs.js" crossorigin></script>
+    <script src="https://static.cmcdn.net/libs/router/1.6.0/router.js" crossorigin></script>
+    <script src="https://static.cmcdn.net/libs/gestures/0.6.0/gestures.js" crossorigin></script>
+    <script src="https://static.cmcdn.net/23/1.1.19/scripts/vendor/anime.js" crossorigin></script>
+    <script src="https://static.cmcdn.net/23/1.1.19/scripts/vendor/swiper.js" crossorigin></script>
+    <script src="https://static.cmcdn.net/libs/cursor/0.6.3/cursor.js" crossorigin></script>
+    <script src="https://static.cmcdn.net/libs/lightbox/0.23.0/lightbox.js" crossorigin></script>
+    <script src="https://static.cmcdn.net/libs/forms/4.0.2/forms.js" crossorigin></script>
+    <script src="https://static.cmcdn.net/libs/scrollable/3.4.0/scrollable.js" crossorigin></script>
+    <script src="https://static.cmcdn.net/libs/player/3.8.2/player.js" crossorigin></script>
+    <script src="https://static.cmcdn.net/libs/lazyjs/2.7.0/lazyjs.js" crossorigin></script>
+    <script src="https://static.cmcdn.net/23/1.1.19/scripts/chroma.js" crossorigin></script>
+    <script src="https://static.cmcdn.net/23/1.1.19/scripts/contrast.js" crossorigin></script>
+    <script src="https://static.cmcdn.net/23/1.1.19/scripts/functions.js" crossorigin></script>
+    <script src="https://static.cmcdn.net/23/1.1.19/scripts/fitty.js" crossorigin></script>
+    <script src="https://static.cmcdn.net/23/1.1.19/scripts/blocks.js" crossorigin></script>
+    <script src="https://static.cmcdn.net/23/1.1.19/scripts/transitions.js" crossorigin></script>
+    <script src="https://static.cmcdn.net/23/1.1.19/scripts/site/Navigation.js" crossorigin></script>
+    <script src="https://static.cmcdn.net/23/1.1.19/scripts/components/Flipbook.js" crossorigin></script>
+    <script src="https://static.cmcdn.net/23/1.1.19/scripts/components/BeforeAfterBlock.js" crossorigin></script>
+    <script src="https://static.cmcdn.net/23/1.1.19/scripts/browser.js" crossorigin></script>
+    <script src="https://static.cmcdn.net/23/1.1.19/scripts/app.js" crossorigin></script>html
+
+    
+  </body>
+</html>
